@@ -1,0 +1,2 @@
+server:
+    cargo run
